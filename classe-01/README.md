@@ -1,20 +1,13 @@
 ![](https://i.imgur.com/xG74tOh.png)
 
-# Exercício de classe 🏫
+# Challenge1 🏫
 
-## Criando Datas
+## Create Datas
 
-Faça um programa que cria uma nova data armazenando o momento atual numa variável.
+Write a program that creates a new date by storing the current time in a variable.
 
-Na sequência, crie uma data que guarda o momento da ceia de natal de 2020. Suponha que a ceia é as 21h30 no seu fuso horário.
+Next, create a date that saves the moment of the 2020 Christmas dinner. Assume that supper is at 9:30 pm in your time zone.
 
 ---
 
-Preencha a checklist para finalizar o exercício:
-
-- [x] Resolver o exercício
-- [x] Adicionar as mudanças aos commits (`git add .` para adicionar todos os arquivos, ou `git add nome_do_arquivo` para adicionar um arquivo específico)
-- [x] Commitar a cada mudança significativa ou na finalização do exercício (`git commit -m "Mensagem do commit"`)
-- [x] Pushar os commits na sua branch na origem (`git push origin nome-da-branch`)
-
-###### tags: `nodeJS` `módulo 2` `exercício de classe` `datas`
+###### tags: `nodeJS` `datas`
