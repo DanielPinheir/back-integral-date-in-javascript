@@ -8,7 +8,7 @@
 4. It's open?
 5. So, is it still open?
 
-## Exercícios extras 🌟
+## Extras exercises🌟
 
 6. Is the promotion valid?
 7. Is the promotion still valid?
